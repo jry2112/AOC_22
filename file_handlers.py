@@ -1,4 +1,4 @@
-day = "day9"
+day = "day10"
 
 open(f"input/{day}_test", "x")
 open(f"input/{day}_input", "x")
